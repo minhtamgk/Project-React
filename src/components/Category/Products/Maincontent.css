@@ -1,0 +1,11 @@
+
+/*********************************
+7. Main Content
+*********************************/
+
+.main_content
+{
+	float: left;
+	width: calc(100% - 200px);
+	padding-left: 34px;
+}
